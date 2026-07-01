@@ -1,0 +1,280 @@
+canonical_identifier: bkk:krp/KR6v0449/v1
+canonical_location: https://kanripo.org/bkk/KR6v0449/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 二障義
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0187.xml
+    old_id: B32n0187
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0449_000.yaml, hash: 'sha256:8add32e807c7080227f55ae12b989f88bdab61875888f27d77b9a901306afe19'}
+  - {seq: 1, filename: KR6v0449_001.yaml, hash: 'sha256:489e78c9e7a4fad99b3c1afcd2d500c11b7f0eb3bc7c6501f3e5c9c502048252'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0449_000.markers.yaml, hash: 'sha256:6f23c3e2ed04c4d5b637405e5addd18f5214eb876ffe7f6138424bb5a81988e6'}
+  - {seq: 1, role: markers, filename: assets/KR6v0449_001.markers.yaml, hash: 'sha256:7c83766b0f9f5ae487d891cae17d926ce98e24a229e2fa3044be565f328a7a04'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0449_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 26261
+  label: 二障義
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 六門分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-2
+    span:
+    - body
+    - 35
+    - 35
+  label: 一釋名義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-3
+    span:
+    - body
+    - 71
+    - 71
+  label: 煩惱鄣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-4
+    span:
+    - body
+    - 177
+    - 177
+  label: 所知鄣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-5
+    span:
+    - body
+    - 424
+    - 424
+  label: 二出軆相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-6
+    span:
+    - body
+    - 440
+    - 440
+  label: 顯了門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-7
+    span:
+    - body
+    - 5524
+    - 5524
+  label: 隱密門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-8
+    span:
+    - body
+    - 5894
+    - 5894
+  label: 三辨功能
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-9
+    span:
+    - body
+    - 5926
+    - 5926
+  label: 能發業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-10
+    span:
+    - body
+    - 6610
+    - 6610
+  label: 能結生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-11
+    span:
+    - body
+    - 9041
+    - 9041
+  label: 四攝諸門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-12
+    span:
+    - body
+    - 9099
+    - 9099
+  label: 百二十八煩惱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-13
+    span:
+    - body
+    - 9982
+    - 9982
+  label: 百四惑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-14
+    span:
+    - body
+    - 10191
+    - 10191
+  label: 九十八使
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-15
+    span:
+    - body
+    - 10723
+    - 10723
+  label: 八種妄想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-16
+    span:
+    - body
+    - 11741
+    - 11741
+  label: 三種煩惱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-17
+    span:
+    - body
+    - 11910
+    - 11910
+  label: 二種煩惱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-18
+    span:
+    - body
+    - 13524
+    - 13524
+  label: 五明治斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-19
+    span:
+    - body
+    - 13554
+    - 13554
+  label: 簡能治
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-20
+    span:
+    - body
+    - 16892
+    - 16892
+  label: 定所斷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-21
+    span:
+    - body
+    - 18297
+    - 18297
+  label: 明治斷差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-22
+    span:
+    - body
+    - 19429
+    - 19429
+  label: 辨治斷階位
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0449_B_001-mulu-23
+    span:
+    - body
+    - 22839
+    - 22839
+  label: 六惣決擇
+  type: mulu
+  level: 1
+hash: sha256:8e7a6eb17f3c57e08a2798294128fa7bb7f5edbf265ea56a77203ef72e142d76
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
