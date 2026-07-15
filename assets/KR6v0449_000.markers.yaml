@@ -205,6 +205,7 @@ markers:
   - {type: punctuation, offset: 144, content: ど, id: KR6v0449_B_000-bkkpn166}
   - {type: line-break, offset: 144, content: '', id: KR6v0449_B_000-0681a16, ed: B, 'n': 0681a16}
   - {type: punctuation, offset: 144, content: り, id: KR6v0449_B_000-bkkpn167}
+  - {type: substitution, offset: 145, original: 号, replacement: 號, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16252}}
   - {type: punctuation, offset: 146, content: は, id: KR6v0449_B_000-bkkpn168}
   - {type: punctuation, offset: 148, content: を, id: KR6v0449_B_000-bkkpn169}
   - {type: punctuation, offset: 149, content: て, id: KR6v0449_B_000-bkkpn170}
@@ -245,7 +246,10 @@ markers:
   - {type: xml-element, offset: 176, content: '', id: pB32p0681a1901, name: p, role: open, attrs: {'xml:id': pB32p0681a1901, style: 'margin-left:2em;text-indent:-2em'}}
   - {type: punctuation, offset: 177, content: 、, id: KR6v0449_B_000-bkkpn199}
   - {type: punctuation, offset: 180, content: の, id: KR6v0449_B_000-bkkpn200}
+  - {type: substitution, offset: 180, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: punctuation, offset: 184, content: の, id: KR6v0449_B_000-bkkpn201}
+  - {type: substitution, offset: 184, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
+  - {type: substitution, offset: 185, original: 学, replacement: 學, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16792}}
   - {type: punctuation, offset: 186, content: は, id: KR6v0449_B_000-bkkpn202}
   - {type: punctuation, offset: 186, content: 、, id: KR6v0449_B_000-bkkpn203}
   - {type: punctuation, offset: 186, content: ア, id: KR6v0449_B_000-bkkpn204}
@@ -279,4 +283,4 @@ markers:
   - {type: line-break, offset: 209, content: '', id: KR6v0449_B_000-0683a02, ed: B, 'n': 0683a02}
   body: []
   back: []
-hash: sha256:624319d4f5675abde1cf6d5394c7d40b99b0769ae58138fa89e58e8ea7d8abed
+hash: sha256:85c4af150ed45bfc7a60e5280e0440c663283a0966f6bd3dda5a45c0141b7832
