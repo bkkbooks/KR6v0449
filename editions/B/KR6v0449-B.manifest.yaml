@@ -19,17 +19,17 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0449_000-B.yaml, hash: 'sha256:67357f72b0c15923d758e56b3a628758603b73f1dd8fe2cefb1cae4d993dfeb4'}
+  - {seq: 0, filename: KR6v0449_000-B.yaml, hash: 'sha256:28bf039cc4bb8144fccf386464be4bc762e84c6cd5ff91b81b8a88aa54323178'}
   - {seq: 1, filename: KR6v0449_001-B.yaml, hash: 'sha256:6fa95faa9842c785edabef9d1a446f4db72d3dff12df0602995fe9be2873d293'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0449_000-B.markers.yaml, hash: 'sha256:cdbf0546661d97fbfa5fa986e428e932ceb1d5e58cf2226a6b3dbbe26b2836eb'}
+  - {seq: 0, role: markers, filename: assets/KR6v0449_000-B.markers.yaml, hash: 'sha256:954eda266140fec335903172adcd004882d193592daa24a19a12265ac4538594'}
   - {seq: 1, role: markers, filename: assets/KR6v0449_001-B.markers.yaml, hash: 'sha256:cabdf545d6d15bdd15b7c63f0d283639c740a30b455149e3029c03ea17e8b130'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0449_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 凡例
@@ -275,4 +275,4 @@ table_of_contents:
   label: 六惣決擇
   type: mulu
   level: 1
-hash: sha256:1b85dce92ba8769ad298f876501f6ea764bcee9ad8628ff08875a92a6ddc45b9
+hash: sha256:ed4ec7cb6e4d28f7c90227de4628c349a0f4d76e4ae11ee15f8ec7856b88c91e
